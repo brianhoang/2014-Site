@@ -10,3 +10,6 @@ New Site 2014
 
 - screenshots below 
 (https://github.com/brianhoang/screenshots/blob/master/a.png)
+(https://github.com/brianhoang/screenshots/blob/master/b.png)
+(https://github.com/brianhoang/screenshots/blob/master/c.png)
+(https://github.com/brianhoang/screenshots/blob/master/d.png)
