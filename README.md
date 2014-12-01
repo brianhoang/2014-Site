@@ -8,4 +8,5 @@ New Site 2014
 - birds ok for now 
 - wildlife and landscape is clone of bird, will update content as i get more pictures 
 
-!(https://github.com/brianhoang/screenshots/blob/master/a.png)
+- screenshots below 
+(https://github.com/brianhoang/screenshots/blob/master/a.png)
