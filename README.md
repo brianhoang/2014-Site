@@ -9,7 +9,8 @@ New Site 2014
 - wildlife and landscape is clone of bird, will update content as i get more pictures 
 
 - screenshots below 
+
 (https://github.com/brianhoang/screenshots/blob/master/a.png)
-(https://github.com/brianhoang/screenshots/blob/master/b.png)
+(https://github.com/brianhoang/screenshots/blob/master/b.png)  //error in resize
 (https://github.com/brianhoang/screenshots/blob/master/c.png)
 (https://github.com/brianhoang/screenshots/blob/master/d.png)
